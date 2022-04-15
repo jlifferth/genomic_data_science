@@ -1,0 +1,21 @@
+****Alignment****
+sequence: gi|1503253460|gb|MK114118.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, partial genome
+length: 18936
+e value: 1.11424e-25
+CATGCTACGGTGCTAAAAGCATTACGCC-TATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence: gi|1282621605|gb|MG572235.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome
+length: 18957
+e value: 1.11424e-25
+CATGCTACGGTGCTAAAAGCATTACGCC-TATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence: gi|1500174811|gb|MK044561.1| Zaire ebolavirus isolate ZEBOV/Human/DRC/2014/BOE_036, partial genome
+length: 18898
+e value: 1.11424e-25
+CATGCTACGGTGCTAAAAGCATTACGCC-TATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
