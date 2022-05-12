@@ -1,3 +1,4 @@
 *.fasta linguist-language=text
 *.fastq linguist-language=text
 *.fa linguist-language=text
+*.1 linguist-language=text
